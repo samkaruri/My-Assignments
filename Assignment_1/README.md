@@ -1,5 +1,5 @@
 # Assignment_1
-** Part-1 Article on dev.to(with images)**
+** Part-1 Article on How Excel is Used in Real-World Data Analysis.**
 https://dev.to/samkaruri/how-excel-is-used-in-real-world-data-analysis-2clj
 
 **Part 2 – Excel document**
